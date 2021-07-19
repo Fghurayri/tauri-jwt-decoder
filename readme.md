@@ -1,1 +1,6 @@
-A small project to experiement with Tauri vs Electron. I built the same app here https://github.com/Fghurayri/jwt-decoder. Givent the app is pretty simple, eventually I found that the Electron app size is 177MB vs Tauri's 14MB 🤔
+A small project to experiement with Tauri vs Electron. I built the same app here https://github.com/Fghurayri/jwt-decoder.
+
+### Result
+
+- Size: Electron 177MB vs Tauri 7MB
+- Memory: Electron 116MB vs Tauri 44MB
